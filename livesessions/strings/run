@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Enter file name"
+read name
+
+gcc $name
+./a.out
